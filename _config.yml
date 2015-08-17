@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
 Incluir descrição do site!
   
 baseurl: "/home" # the subpath of your site, e.g. /blog/
-url:  # the base hostname & protocol for your site
-twitter_username: 
+url:  nil # the base hostname & protocol for your site
+twitter_username: nil
 github_username:  paternogbc
 permalink: /:year/:month/:title.html
 
