@@ -2,7 +2,7 @@
 title: Gustavo Paterno 
 email: paternogbc@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-Incluir descrição do site!
+Incluir descri do site!
   
 baseurl: "/home" # the subpath of your site, e.g. /blog/
 url:  nil # the base hostname & protocol for your site
