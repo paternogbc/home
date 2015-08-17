@@ -8,6 +8,11 @@ tags: [teste]
 Apenas um teste!
 ```{r}
 plot(1:100)
+
+summary(1:100)
+
+# Comentário
+
 ```
 
 
