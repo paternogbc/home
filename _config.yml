@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   
 baseurl: "/home" # the subpath of your site, e.g. /blog/
 url:  nil # the base hostname & protocol for your site
-twitter_username: nil
+twitter_username: 
 github_username:  paternogbc
 permalink: /:year/:month/:title.html
 
