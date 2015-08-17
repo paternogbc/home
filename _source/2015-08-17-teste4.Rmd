@@ -1,0 +1,15 @@
+---
+layout: post
+title: teste4
+categories: [estatística]
+tags: [teste]
+---
+
+Apenas um teste!
+```{r}
+plot(1:100)
+```
+
+
+Deseja contribuir? 
+ * entre em contato com o autor (paternogbc@gmail.com)
